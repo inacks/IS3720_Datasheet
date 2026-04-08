@@ -1,5 +1,5 @@
 # IS3720_Datasheet
-Datasheet of the IS3720 I2C DMX+RDM Receiver Integrated Circuit 
+This repository contains the datasheet of the IS3720 I2C DMX+RDM Receiver Integrated Circuit.
 
 ## What is it and what it does
 
