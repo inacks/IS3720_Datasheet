@@ -32,13 +32,13 @@ RDM registers are mapped after the DMX registers. Some are informational, such a
 
 You can buy the product at:
 
-- [www.inacks.com/is3720](www.inacks.com/is3720)
+- www.inacks.com/is3720
 
 ## Questions?
 
 💬 Contact us anytime for support.
 
-- [www.inacks.com](www.inacks.com)
+- www.inacks.com
 
 
 ## Others
